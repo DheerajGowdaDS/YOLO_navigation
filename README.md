@@ -15,7 +15,7 @@ Current autonomous robots often:
 
 ## Proposed Solution
 
-
+![](https://i.postimg.cc/fLpyWvmh/Whats-App-Image-2025-05-11-at-12-33-50-54fd15dd.jpg)
 
 ## Application Use Cases
 
