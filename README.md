@@ -19,7 +19,7 @@ Current autonomous robots often:
 
 
 ## Dataset 
-![](https://universe.roboflow.com/dsdg/navi-yrfus)
+![dataset](https://universe.roboflow.com/dsdg/navi-yrfus)
 
 ## Application Use Cases
 
