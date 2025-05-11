@@ -21,7 +21,7 @@ Current autonomous robots often:
 ## Dataset and Output Video
 [dataset](https://universe.roboflow.com/dsdg/navi-yrfus)
 
-[Output_video_player](https://www.veed.io/view/c70aa4c4-c28d-4005-9146-81763d16cfd5?panel=)
+[Output_video_player]([https://www.veed.io/view/c70aa4c4-c28d-4005-9146-81763d16cfd5?panel=](https://www.veed.io/view/c70aa4c4-c28d-4005-9146-81763d16cfd5?panel=share))
 
 ## Application Use Cases
 
