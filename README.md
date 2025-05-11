@@ -17,6 +17,10 @@ Current autonomous robots often:
 
 ![](https://i.postimg.cc/fLpyWvmh/Whats-App-Image-2025-05-11-at-12-33-50-54fd15dd.jpg)
 
+
+## Dataset 
+![](https://universe.roboflow.com/dsdg/navi-yrfus)
+
 ## Application Use Cases
 
 1. Smart Factories:	AGVs avoiding workers & inventory
